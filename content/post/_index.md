@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: 技术文章
 
 # View.
 #   1 = List

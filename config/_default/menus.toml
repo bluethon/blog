@@ -5,17 +5,17 @@
 
 [[main]]
   name = "首页"
-  url = "#posts"
+  url = ""
   weight = 10
 
 [[main]]
   name = "技术文章"
-  url = "#posts"
+  url = "post"
   weight = 20
 
 [[main]]
   name = "教学笔记"
-  url = "#teach"
+  url = "teach"
   weight = 30
 
 [[main]]
