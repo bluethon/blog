@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ubuntu关闭笔记本休眠"
+title: "Ubuntu笔记本合盖休眠"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,7 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-# Ubuntu关闭笔记本盖休眠
 
 ## 背景
 
